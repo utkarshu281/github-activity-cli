@@ -60,9 +60,9 @@ mvn compile exec:java -Dexec.mainClass="org.example.GithubActivity" -Dexec.args=
 **Output:**
 
 ```text
-- Starred username/repo-name
+- Starred utkarshu281/repo-name
 ------------------------------------------
-- Pushed 3 commits to username/repo-name
+- Pushed 3 commits to utkarshu281/repo-name
 ------------------------------------------
 ```
 
